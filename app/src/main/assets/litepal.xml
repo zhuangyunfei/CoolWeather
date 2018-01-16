@@ -7,6 +7,6 @@
         <!-- 添加映射的数据表模型  将class映射为表结构-->
         <mapping class="com.example.coolweather.db.Province"/>
         <mapping class="com.example.coolweather.db.City"/>
-        <mapping class="com.example.coolweather.db.County/"/>
+        <mapping class="com.example.coolweather.db.County"/>
     </list>
 </litepal>
